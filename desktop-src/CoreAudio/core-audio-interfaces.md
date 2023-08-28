@@ -12,7 +12,7 @@ This programming reference for the Core Audio SDK includes the following interfa
 
 ## MMDevice API
 
-The Windows Multimedia Device (MMDevice) API enables audio clients to discover [audio endpoint devices](audio-endpoint-devices.md), determine their capabilities, and create driver instances for those devices.Header file Mmdeviceapi.h defines the interfaces in the MMDevice API. For more information, see [About MMDevice API](mmdevice-api.md).
+The Windows Multimedia Device (MMDevice) API enables audio clients to discover [audio endpoint devices](audio-endpoint-devices.md), determine their capabilities, and create driver instances for those devices. Header file Mmdeviceapi.h defines the interfaces in the MMDevice API. For more information, see [About MMDevice API](mmdevice-api.md).
 
 The following table lists the MMDevice interfaces available with the Core Audio SDK for Windows Vista.
 
